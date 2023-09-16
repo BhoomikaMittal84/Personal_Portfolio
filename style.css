@@ -265,8 +265,8 @@ about {
 
 .about-container {
     gap: 1rem;
-    margin-bottom: 3rem;
-    margin-top: 3rem;
+    margin-bottom: 1rem;
+    margin-top: 31em;
 }
 
 .about-details-container {
@@ -292,7 +292,7 @@ about {
 
 .section-container {
     gap: 4rem;
-    height: 60%;
+    height: 100%;
 }
 
 /*experience*/
