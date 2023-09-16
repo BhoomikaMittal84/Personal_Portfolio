@@ -266,7 +266,7 @@ about {
 .about-container {
     gap: 1rem;
     margin-bottom: 1rem;
-    margin-top: 31em;
+    margin-top: 3rem;
 }
 
 .about-details-container {
@@ -291,7 +291,7 @@ about {
 }
 
 .section-container {
-    gap: 4rem;
+    gap: 2rem;
     height: 90%;
 }
 
@@ -305,7 +305,7 @@ about {
     color: rgb(85,85,85);
     font-weight: 600;
     font-size: 1.8rem;
-    margin-bottom: 10rem;
+    margin-bottom: 2rem;
 }
 
 .skills-details-container {
