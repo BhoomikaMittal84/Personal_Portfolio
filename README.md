@@ -1,4 +1,4 @@
-# OIBSIP--Personal_Portfolio
+# Personal_Portfolio
 
 
 Welcome to my digital canvas, a showcase of my passion for web design and development. In this personal portfolio project, I've crafted a responsive website that not only displays my skills but also reflects my creativity and attention to detail.
